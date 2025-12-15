@@ -45,7 +45,7 @@ Modeled setup carryover and demand spikes using Python & Excel
 
 Delivered managerial insights on capacity bottlenecks and cost trade-offs
 
-➡️ Repo: fdc-production-optimization
+
 
 ❄️ Cold Chain Logistics Analytics
 
@@ -57,17 +57,7 @@ SQL + Python pipelines with Power BI dashboards
 
 ROC analysis for failure prediction models
 
-➡️ Repo: cold-chain-logistics-analytics
 
-📦 Inventory Classification & Dashboarding
-
-ABC–XYZ analysis with executive-ready dashboards
-
-Excel + Power BI solution for inventory prioritization
-
-Actionable KPIs for procurement and warehousing decisions
-
-➡️ Repo: inventory-abc-xyz-dashboard
 
 🛠️ Advanced Manufacturing Research (EDM & Friction Drilling)
 
@@ -79,7 +69,7 @@ Comparative study of copper vs brass electrodes
 
 Focus on aerospace manufacturing applications
 
-➡️ Repo: edm-doe-haynes25
+
 
 🧠 Professional Experience
 🚗 Cost Engineering Intern — Tata Motors, Pimpri
